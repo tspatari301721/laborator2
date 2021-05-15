@@ -1,0 +1,40 @@
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.exe.config
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csprojAssemblyReference.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.Form1.resources
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.exe.config
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.exe
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\bin\Debug\Clase.pdb
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csprojAssemblyReference.cache
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.Form1.resources
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.exe
+C:\file\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\2\Clase\Clase\obj\Debug\Clase.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\2\Clase\Clase\obj\Debug\Clase.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\2\Clase\Clase\obj\Debug\Clase.pdb
